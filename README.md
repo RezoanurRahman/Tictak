@@ -1,1 +1,1 @@
-#A Basic TICTACTOE game to learn the fundamentals of react
+# A Basic Tictactoe game to learn the fundamentals of react
